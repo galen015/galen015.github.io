@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : profile_picture.jpg
+  avatar           : profile.jpg
   name             : "Joaquín Galeno"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at the University of Minnesota, Twin Cities"
