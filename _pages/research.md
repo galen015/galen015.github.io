@@ -16,4 +16,4 @@ with [Felipe González](https://fagonza4.github.io/) (Queen Mary University of L
 Work in Progress
 ======
   * The Costs of Bad Mental and Physical Health.<br>
-[[slides]()], [[poster]()]
+[[slides](https://galen015.github.io/files/250220_workshop_presentation.pdf)], [[poster](https://galen015.github.io/files/250320_poster_draft.pdf)]
