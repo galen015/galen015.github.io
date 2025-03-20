@@ -4,7 +4,7 @@ collection: teaching
 type: "Instructor"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Minnesota, Twin Cities"
-date: 2024
+date: 2024-01-01
 location: "Minneapolis, MN"
 ---
 
