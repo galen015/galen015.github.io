@@ -12,6 +12,6 @@ I am a PhD Student in Economics at the [University of Minnesota](https://cla.umn
 
 My research interests are Labor Economics, Health, and Macroeconomics. I am part of the Macro-Micro Workshop run by [Mariacristina De Nardi](http://users.nber.org/~denardim/) and [Jo Mullins](https://www.josephlyonmullins.com/) at the University of Minnesota. 
 
-##You can find my CV <a href="https://galen015.github.io/files/CV_SPoblete.pdf">here</a>
+##You can find my CV <a href="https://galen015.github.io/files/CV_Actualizar.pdf">here</a>
 
 You can reach me at <a href="mailto:galen015@umn.edu">galen015 [at] umn  [dot] edu</a>
