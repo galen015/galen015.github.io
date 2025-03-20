@@ -8,13 +8,4 @@ date: 2024-01-01
 location: "Minneapolis, MN"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I was the instructor for the second half of the course Intermediate Microeconomics during the Summer semester of 2024.
