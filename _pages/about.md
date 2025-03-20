@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student in Economics at the [University of Minnesota](https://cla.umn.edu/economics). I am currently working as Research Analyst at the [Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org/economic-research/economists). 
+I am a PhD Student in Economics at the [University of Minnesota](https://cla.umn.edu/economics). I am currently working as a Research Analyst at the [Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org/economic-research/economists). 
 
 My research interests are Labor Economics, Health, and Macroeconomics. I am part of the Macro-Micro Workshop run by [Mariacristina De Nardi](http://users.nber.org/~denardim/) and [Jo Mullins](https://www.josephlyonmullins.com/) at the University of Minnesota. 
 
