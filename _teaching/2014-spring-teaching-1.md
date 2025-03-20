@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "ECON3101: Intermediate Microeconomics"
 collection: teaching
-type: "Undergraduate course"
+type: "Instructor"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Minnesota, Twin Cities"
+date: Summer 2024
+location: "Minneapolis, MN"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
