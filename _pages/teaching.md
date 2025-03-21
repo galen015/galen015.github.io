@@ -6,7 +6,7 @@ author_profile: true
 
 ### Instructor
 
--  Intermediate Microeconomics (ECON 3101) Summer 2024 at University of Minnesota, Minneapolis, MN \
+-  Intermediate Microeconomics (ECON 3101) Summer 2024 at University of Minnesota, Minneapolis, MN 
   
 ### Teaching Assistant
 
