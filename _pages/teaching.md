@@ -6,16 +6,14 @@ author_profile: true
 
 ### Instructor
 
-- Principles of Microeconomics (ECON 1101) (Fall 2021 - Present) at University of Minnesota, Minneapolis, MN \
-  [Syllabus](/assets/teaching/syllabi/Syllabus_Fall2023.pdf)
+-  Intermediate Microeconomics (ECON 3101) Summer 2024 at University of Minnesota, Minneapolis, MN \
   
-- Microeconomics (Fall 2018) at Católica Human Sciences, Lisbon
-
-
 ### Teaching Assistant
 
-- Intermediate Microeconomics (ECON 3101) (Fall 2020 / Spring 2021) at University of Minnesota, Minneapolis, MN
+- Microeconomic Analysis IV (ECON 4164) Spring 2024 at University of Minnesota, Minneapolis, MN
 
-- Advanced Macroeconomics (Fall 2018) at Católica Lisbon SBE, Lisbon
+- Microeconomic Analysis III (ECON 4163) Spring 2024 at University of Minnesota, Minneapolis, MN
 
-- Intermediate Microeconomics, Intermediate Macroeconomics, Open Economy Macroeconomics (Spring 2016 - Spring 2019) at Católica Lisbon SBE, Lisbon
+- Principles of Microeconomics (ECON 1101) Fall 2023 at University of Minnesota, Minneapolis, MN
+
+- Advanced Mathematical Economics (ECON 4118) Fall 2023 and Spring 2023 at University of Minnesota, Minneapolis, MN
