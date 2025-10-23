@@ -26,7 +26,3 @@ Professional experience
 * Secretary of Labor and Social Security (Chile)— Research Analyst
   * June 2019 - September 2020
   
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
