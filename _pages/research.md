@@ -17,3 +17,4 @@ Work in Progress
 ======
   * The Costs of Bad Mental and Physical Health.<br>
 [[slides](https://galen015.github.io/files/250220_workshop_presentation.pdf)], [[poster](https://galen015.github.io/files/250320_poster_draft.pdf)]
+  * Lifestyle Behaviors and Lifetime Earnings Inequality with <i>Benjamin Boyajian</i>
