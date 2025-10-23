@@ -17,12 +17,12 @@ Education
 
 Professional experience
 ======
-* Federal Reserve Bank of Minneapolis— Research Analyst
+* **Federal Reserve Bank of Minneapolis**— Research Analyst
   * August 2024 - Present
 
-* Central Bank of Chile — Junior Economist
+* **Central Bank of Chile**— Junior Economist
   * September 2020 - September 2022
 
-* Secretary of Labor and Social Security (Chile)— Research Analyst
+* **Secretary of Labor and Social Security (Chile)**— Research Analyst
   * June 2019 - September 2020
   
