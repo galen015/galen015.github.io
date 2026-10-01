@@ -13,7 +13,11 @@ Published papers
   * [Candidates or Onlookers? An Analysis of the Impact of the Quota Law (In Spanish)](https://www.estudiospublicos.cl/index.php/cep/article/view/21/26). 2019, *Estudios Públicos*. \
 with [Felipe González](https://fagonza4.github.io/) (Queen Mary University of London) and [Francisco Gallego](https://sites.google.com/view/franciscoagallego) (PUC-Chile)
 
-Work in Progress
+Working Papers
 ======
   * [The Costs of Bad Mental and Physical Health]({{ base_path }}/files/251110_3YP_draft.pdf). November 2025.
   * [Healthy Choices, Lifecycle Health, and Earnings Inequality]({{ base_path }}/files/260929_BG_draft.pdf) with <i>Benjamin Boyajian</i>. September 2026.
+
+Work in Progress
+======
+  * What drives health and health behaviors? with <i>Francisco Bullano</i>, <i>Mariacristina De Nardi</i>, and <i>Nicolo' Russo</i>
