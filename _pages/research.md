@@ -15,5 +15,5 @@ with [Felipe González](https://fagonza4.github.io/) (Queen Mary University of L
 
 Work in Progress
 ======
-  * [The Costs of Bad Mental and Physical Health](https://github.com/galen015/galen015.github.io/blob/master/files/251110_draft.pdf). November 2025.
-  * Lifestyle Behaviors and Lifetime Earnings Inequality with <i>Benjamin Boyajian</i>
+  * [The Costs of Bad Mental and Physical Health](https://github.com/galen015/galen015.github.io/blob/master/files/251110_3YP_draft.pdf). November 2025.
+  * [Healthy Choices, Lifecycle Health, and Earnings Inequality](https://github.com/galen015/galen015.github.io/blob/master/files/260929_BG_draft.pdf) with <i>Benjamin Boyajian</i>. September 2026.
