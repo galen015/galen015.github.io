@@ -20,4 +20,4 @@ Working Papers
 
 Work in Progress
 ======
-  * What drives health and health behaviors? with <i>Francisco Bullano</i>, <i>Mariacristina De Nardi</i>, and <i>Nicolo' Russo</i>
+  * What drives health and health behaviors? with <i>Francisco Bullano</i>, <i>Mariacristina De Nardi</i>, and <i>Nicolò Russo</i>
